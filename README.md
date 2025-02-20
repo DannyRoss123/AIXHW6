@@ -1,7 +1,5 @@
 # AIXHW6
 
-Here's the README formatted in Markdown that you can directly copy and paste:
-
 # Mechanistic Interpretability of Transformer Circuits
 
 ## Overview
